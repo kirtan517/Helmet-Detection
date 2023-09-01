@@ -1,0 +1,8 @@
+,xmin,ymin,xmax,ymax,confidence,class,name,label_directory,class_predictions_model
+0,1452.55810546875,530.81689453125,1555.9998779296875,782.2901000976562,,0,person,/Users/kirtankanani/Desktop/Winter-2023/PatternRecognition/FinalProject/data/aicity2023_track5_test/testLabels/058_120.csv,0
+1,852.857666015625,283.0399475097656,936.1673583984376,402.29290771484375,,0,person,/Users/kirtankanani/Desktop/Winter-2023/PatternRecognition/FinalProject/data/aicity2023_track5_test/testLabels/058_120.csv,0
+2,1381.0552978515625,334.5208435058594,1448.5113525390625,514.42529296875,,0,person,/Users/kirtankanani/Desktop/Winter-2023/PatternRecognition/FinalProject/data/aicity2023_track5_test/testLabels/058_120.csv,0
+3,232.20790100097656,529.3659057617188,295.14599609375,638.0499877929688,,3,motorcycle,/Users/kirtankanani/Desktop/Winter-2023/PatternRecognition/FinalProject/data/aicity2023_track5_test/testLabels/058_120.csv,0
+4,863.765625,342.3382263183594,929.2838745117188,428.4540100097656,,3,motorcycle,/Users/kirtankanani/Desktop/Winter-2023/PatternRecognition/FinalProject/data/aicity2023_track5_test/testLabels/058_120.csv,0
+5,220.3227081298828,424.8292541503906,298.01763916015625,602.9241333007812,,0,person,/Users/kirtankanani/Desktop/Winter-2023/PatternRecognition/FinalProject/data/aicity2023_track5_test/testLabels/058_120.csv,0
+6,1239.580810546875,220.2650909423828,1289.049560546875,286.4933776855469,,3,motorcycle,/Users/kirtankanani/Desktop/Winter-2023/PatternRecognition/FinalProject/data/aicity2023_track5_test/testLabels/058_120.csv,0
